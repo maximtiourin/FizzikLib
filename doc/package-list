@@ -1,0 +1,10 @@
+com.fizzikgames.fizlib.console
+com.fizzikgames.fizlib.math
+com.fizzikgames.fizlib.math.geom
+com.fizzikgames.fizlib.networking
+com.fizzikgames.fizlib.networking.client
+com.fizzikgames.fizlib.networking.client.commands
+com.fizzikgames.fizlib.networking.server
+com.fizzikgames.fizlib.networking.server.commands
+com.fizzikgames.fizlib.pathfinding
+com.fizzikgames.fizlib.util
